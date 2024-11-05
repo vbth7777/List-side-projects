@@ -2,3 +2,5 @@ https://github.com/vbth7777/ComicReader
 https://github.com/vbth7777/NamingSetter
 https://github.com/vbth7777/ComicDownloader
 https://github.com/vbth7777/civitTools-web
+https://github.com/vbth7777/HauVoBot
+https://vbth7777.github.io/ThanhHauHeart
